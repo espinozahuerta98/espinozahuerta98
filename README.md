@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @espinozahuerta98
+- 👋 Hi, I’m Carlos Espinoza
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning angular
 
